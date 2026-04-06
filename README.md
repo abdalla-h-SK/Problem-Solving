@@ -67,7 +67,7 @@ Problem Solving/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
-├── Graghs/               ← (folder named "Graghs" in repo)
+├── Graphs/
 │   ├── easy/
 │   ├── medium/
 │   └── hard/
@@ -85,7 +85,7 @@ Problem Solving/
 │   └── hard/
 ├── Recursive Backtracking/
 │   ├── easy/
-│   ├── meduim/           ← (folder named "meduim" in repo)
+│   ├── medium/
 │   └── hard/
 ├── Heaps/
 │   ├── easy/
